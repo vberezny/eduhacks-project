@@ -10,3 +10,6 @@ Run npm install in both drawing/ and chat/ with their own terminal windows
 Start both of the servers, "node client.js" and "npm start" respectively
 
 Open main.html to get the collab work page
+
+## Team Info
+Project was done for EduHacks 2017 and won prize for Best Use of Sketch App with Vladimir Bereznyakov, Samson Tan, Bella Margolles, Qing Yao, and myself.
