@@ -6,7 +6,9 @@ See a demo of the drawing aspect hosted [here](http://www.drawcanvas.cloudno.de/
 
 ## Setup
 Run npm install in both drawing/ and chat/ with their own terminal windows
-
+```
+npm install
+```
 Start both of the servers, "node client.js" and "npm start" respectively
 
 Open main.html to get the collab work page
